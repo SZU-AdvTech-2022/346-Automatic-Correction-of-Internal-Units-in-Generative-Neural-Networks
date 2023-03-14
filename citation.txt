@@ -1,0 +1,9 @@
+@inproceedings{REPO-347,
+    author = "Tousi, Ali and Jeong, Haedong and Han, Jiyeon and Choi, Hwanil and Choi, Jaesik",
+    booktitle = "2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    number = "",
+    pages = "7928-7936",
+    title = "{Automatic Correction of Internal Units in Generative Neural Networks}",
+    volume = "",
+    year = "2021"
+}
